@@ -12,6 +12,6 @@ vboxmanage showvminfo magma-dev
 
 delete VM:
 ```bash
-VBoxManage unregistervm --delete magma-dev
+vboxmanage unregistervm --delete magma-dev
 ```
 
